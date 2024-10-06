@@ -13,7 +13,7 @@ namespace LinkDev.Talabat.Infrastructure.Presistance.Data
     {
         public static async Task SeedAsync(StoreContext storeContext)
         {
-
+              
           
 
 
